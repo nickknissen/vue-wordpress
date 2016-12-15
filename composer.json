@@ -1,0 +1,17 @@
+{
+    "name": "nickknissen/vue-wordpress",
+    "description": "A vue based wordpress theme",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Nick Nissen",
+            "email": "nickknissen@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/server/"
+        }
+    }
+}
